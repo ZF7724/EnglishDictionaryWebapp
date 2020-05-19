@@ -4,4 +4,4 @@ V.1= Regular English Dictionary that has ability to iterate through data to find
 
 V.2= Does the same thing but with data located on a server in which mySQL module is integrated. 
 
-V.3= Planning on creating GUI for users. 
+V.3= Planning on adding and creating GUI
